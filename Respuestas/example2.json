@@ -1,0 +1,68 @@
+{
+  "id_item": "MLB1494945961",
+  "title": "IPHONE 15 PRO",
+  "price": 1499.99,
+  "currency_id": "USD",
+  "available_quantity": 150,
+  "sold_quantity": 45,
+  "condition": "new",
+  "space": "condition",
+  "pictures": [
+    {
+      "url": "https://example.com/image1.jpg"
+    },
+    {
+      "url": "https://example.com/image2.jpg"
+    }
+  ],
+  "seller": {
+    "id": 12345,
+    "nickname": "BestSeller123",
+    "power_seller_status": "gold",
+    "car_dealer": false,
+    "real_estate_agency": false,
+    "tags": [
+      "normal",
+      "credits_profile",
+      "messages_as_seller"
+    ]
+  },
+  "attributes": [
+    {
+      "id": "BRAND",
+      "name": "Marca",
+      "value_id": "1234",
+      "value_name": "XYZ",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "MODEL",
+      "name": "Modelo",
+      "value_id": "5678",
+      "value_name": "XYZ 2024",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    },
+    {
+      "id": "COLOR",
+      "name": "Color",
+      "value_id": "91011",
+      "value_name": "Negro",
+      "value_struct": null,
+      "attribute_group_id": "OTHERS",
+      "attribute_group_name": "Otros"
+    }
+  ],
+  "warranty": "12 meses",
+  "questions": [
+    {
+      "id": "q123",
+      "date_created": "2024-07-21T15:30:00Z",
+      "text": "¿Viene con garantía internacional?",
+      "status": "UNANSWERED"
+    }
+  ]
+}
